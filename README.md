@@ -1,5 +1,7 @@
 # Project K Engine Demo
 
+By [Alberto Fustinoni](http://aftnet.net)
+
 This was the very first game application I created, a vertical scrolling shooter developed in Flash and ActionScript. The game has been inspired by titles such as Ikaruga and Rez, with the bonus system and its ties to the ability to use smart bombs being my only major design contribution.
 
 ## Controls:
